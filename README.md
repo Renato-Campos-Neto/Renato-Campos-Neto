@@ -11,7 +11,7 @@
  
  <br>
  
-  ### Developer Student, for any contact!
+  ### Developer student, for any contact!
  
 <div> 
   <a href="https://instagram.com/r.camposneto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
