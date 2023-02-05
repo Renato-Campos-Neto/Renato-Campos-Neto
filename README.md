@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/Renato-Campos-Neto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renato-Campos-Neto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renato-Campos-Neto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Campos-Neto&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
